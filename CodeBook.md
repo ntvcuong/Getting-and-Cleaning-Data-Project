@@ -13,7 +13,7 @@ Subject and activity are variables to identify the observations:
    *Activity: activity names, containing Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
   
 Tidy dataset variables:
-   [1] "subject"                                                  
+   * [1] "subject"                                                  
    [2] "activity"                                                 
    [3] "timeBodyAccelerometer-Mean-X"                             
    [4] "timeBodyAccelerometer-Mean-Y"                             
