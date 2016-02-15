@@ -3,14 +3,15 @@
 This is the codebook to describe the data, its variables of the Getting and Cleaning Data course project.
 
 ##The data sourse
-  Original data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-  Description of the original dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+  *Original data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+  *Description of the original dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ##The tidy dataset variables
 The tidy dataset were attached in my submission. It contains some avariables as below. All of them are the means of measurements for each subject and activity.
 Subject and activity are variables to identify the observations:
-  Subject: integer subject ID
-  Activity: activity names, containing Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
+  *Subject: integer subject ID
+  *Activity: activity names, containing Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
+  
 Tidy dataset variables:
  [1] "subject"                                                  
  [2] "activity"                                                 
