@@ -9,8 +9,8 @@ This is the codebook to describe the data, its variables of the Getting and Clea
 ##The tidy dataset variables
 The tidy dataset were attached in my submission. It contains some avariables as below. All of them are the means of measurements for each subject and activity.
 Subject and activity are variables to identify the observations:
-   *Subject: integer subject ID
-   *Activity: activity names, containing Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
+   * Subject: integer subject ID
+   * Activity: activity names, containing Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
   
 Tidy dataset variables:
    * [1] "subject"                                                  
